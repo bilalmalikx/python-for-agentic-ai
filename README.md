@@ -15,8 +15,8 @@ Agentic AI refers to systems that can make decisions, plan actions, and operate 
 | Phase | Topics Covered                     | Status     |
 |-------|------------------------------------|------------|
 | 0     | Python Basics (Variables, Loops)   | ✅ Complete |
-| 1     | Control Flow (if/else, loops)      | 🚧 In Progress |
-| 2     | Functions, Modules, and Packages   | 🔜 Coming Soon |
+| 1     | Control Flow (if/else, loops)      | ✅ Complete |
+| 2     | Functions, Modules, and Packages   | 🚧 In Progress |
 | 3     | Object-Oriented Programming        | 🔜 Coming Soon |
 | 4     | File Handling, Error Handling      | 🔜 Coming Soon |
 | 5     | Data Structures & Algorithms       | 🔜 Coming Soon |
