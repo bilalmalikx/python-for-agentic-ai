@@ -14,8 +14,8 @@ else:
 total_Numbers:int = 1100
 
 if total_Numbers >= 900:
-    print("numbers are so ggod!")
+    print("Midrar's numbers are so god!")
 elif total_Numbers >= 700:
-    print("numbers are normal but it's okay!")
+    print("Midrar's numbers are normal but it's okay!")
 else:
-    print("numbers are not good, you need to work hard and make sure don't feel restless while stuyding!")
+    print("Midrar's numbers are not good, you need to work hard and make sure don't feel restless while stuyding!")
