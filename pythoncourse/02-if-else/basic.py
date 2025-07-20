@@ -1,4 +1,4 @@
-#Real World Example of If-Else Statement
+# Real World Example of If-Else Statement
 
 x = 10
 
@@ -9,8 +9,8 @@ else:
 
 # Example of using variables in an if-else statement
 
-    
-name:str = "bilal malik"
+
+name: str = "bilal malik"
 
 if name == "bilal":
     print("Hello, Bilal Malik!")
