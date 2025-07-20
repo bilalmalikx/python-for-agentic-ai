@@ -16,6 +16,6 @@ print("am i student:", is_Student)
 
 # Variables can be changed (reassigned)
 name:str = "bilal malik"
-print("Updates name:", name)
+print("Updated name:", name)
 
 # Python is dynamically typed, so you don't need to declare the type of a variable.
